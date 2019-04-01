@@ -1,2 +1,6 @@
-a = str("Hello World")
-print a
+b = int(23+34)
+print b *21
+#testing
+
+c = input("say something")
+print c
